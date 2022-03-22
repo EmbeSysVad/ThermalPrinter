@@ -1,7 +1,7 @@
 {
  "posts":[
   {
- "OrderNo" :1,
+ "OrderNo" :"1",
  "HotelName": "Indian Summer Harlem",
  "Type" : "PREORDER",
  "PreOrderDate":"12/12/2022",
@@ -12,24 +12,24 @@
  "Check": "#34 Grubhub-123456",
  "Invoice No": "#MRD11242353452",
 "Ordered":"10/02/2022 10:00 pm",
-"Total Items":3,
+"Total Items":"3",
 "Items":
 [
  {
  "Name":"aloo samosa",
  "Add On":"[Medium Spicy, No Cream]",
 "Food Inst":"send tissue",
- "Quantity":2,
+ "Quantity":"2",
  "Price": "$25"
  },
  {
  "Name":"masala dosa",
- "Quantity":1,
+ "Quantity":"1",
  "Price": "$2"
  },
  {
  "Name":"Vegetable Pakora",
- "Quantity":1,
+ "Quantity":"1",
  "Price": "$2"
  }
 ],
