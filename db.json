@@ -6,7 +6,7 @@
  "Type" : "PREORDER",
  "PreOrderDate":"12/12/2022",
  "PreOrderTime":"02:00 pm",
- "CustName":"Mayur Darji",
+ "CustName":"Hiren Jethava",
  "CustMob":"+13124657980",
  "Server":"Itsachakemate I",
  "Check": "#34 Grubhub-123456",
@@ -16,10 +16,17 @@
 "Items":
 [
  {
- "Name":"aloo samosa",
+ "Name":"Bhaji Pau",
  "Add On":"[Medium Spicy, No Cream]",
 "Food Inst":"send tissue",
  "Quantity":"2",
+ "Price": "$25"
+ },
+ {
+ "Name":"Sev Usal",
+ "Add On":"[Medium Spicy, No Cream]",
+"Food Inst":"send tissue",
+ "Quantity":"10",
  "Price": "$25"
  },
  {
