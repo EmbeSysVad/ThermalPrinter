@@ -1,8 +1,8 @@
 {
  "posts":[
   {
- "OrderNo" :"12",
- "HotelName": "Embesysy The Project",
+ "OrderNo" :"2",
+ "HotelName": "APK Tech..",
  "Type" : "PREORDER",
  "PreOrderDate":"28/03/2022",
  "PreOrderTime":"04:53 pm",
@@ -16,26 +16,26 @@
 "Items":
 [
  {
- "Name":"Bhaji Pau",
+ "Name":"Paau Bhaji",
  "Add On":"[Medium Spicy, No Cream]",
 "Food Inst":"send tissue",
  "Quantity":"2",
  "Price": "$25"
  },
  {
- "Name":"Sev Usal",
+ "Name":"Paani Puri",
  "Add On":"[Medium Spicy, No Cream]",
 "Food Inst":"send tissue",
  "Quantity":"10",
  "Price": "$25"
  },
  {
- "Name":"masala dosa",
+ "Name":"Uttapan",
  "Quantity":"1",
  "Price": "$2"
  },
  {
- "Name":"Vegetable Pakora",
+ "Name":"Pizza",
  "Quantity":"1",
  "Price": "$2"
  }
