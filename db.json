@@ -1,62 +1,38 @@
-{
- "posts":[
-  {
- "OrderNo" :"5",
- "HotelName": "Eat Panjab Hotel",
- "Type" : "PREORDER",
- "PreOrderDate":"28/03/2022",
- "PreOrderTime":"04:53 pm",
- "CustName":"Hiren Jethava",
- "CustMob":"+7016799227",
- "Server":"Itsachakemate I",
- "Check": "#34 Grubhub-123456",
- "Invoice No": "#MRD11242353452",
-"Ordered":"10/02/2022 10:00 pm",
-"Total Items":"5",
-"Items":
 [
- {
- "Name":"Paau Bhaji",
- "Add On":"[Medium Spicy, No Cream]",
-"Food Inst":"send tissue",
- "Quantity":"2",
- "Price": "$25"
- },
- {
- "Name":"Paani Puri",
- "Add On":"[Medium Spicy, No Cream]",
-"Food Inst":"send tissue",
- "Quantity":"10",
- "Price": "$25"
- },
- {
- "Name":"Aloo Panir",
- "Add On":"[add cheese]",
-"Food Inst":"send tissue",
- "Quantity":"10",
- "Price": "$245"
- },
- {
- "Name":"Uttapan",
- "Quantity":"1",
- "Price": "$2"
- },
- {
- "Name":"Pizza",
- "Quantity":"1",
- "Price": "$2"
- }
-],
-"Subtotal": "$25",
-"Tax":"$2",
-"Tip":"$2",
-"Total":"$200"
-}
-  ],
- "comments":[
-  {"id":11,"body":"comments 1","postId":81}
-  ],
-  "profile":{
-   "name":"profile 1"
+  {
+    "0": [
+      {
+        "Name": "Garlic Naan",
+        "Add On": [
+          ""
+        ],
+        "Quantity": "1",
+        "Price": "4.00",
+        "Food Inst": null
+      },
+      {
+        "Name": "Keema Naan",
+        "Add On": [
+          ""
+        ],
+        "Quantity": "1",
+        "Price": "5.00",
+        "Food Inst": null
+      }
+    ],
+    "OrderNo": 2,
+    "Invoice No": "1654305385208",
+    "Type": "delivery",
+    "Ordered": "03/06/2022 09:16 PM",
+    "PreOrderDate": "",
+    "PreOrderTime": "",
+    "CustName": "Jessica ",
+    "CustEmail": "constantinoslinos@gmail.com",
+    "CustMob": "6467255797",
+    "CustAddress": "1295 5th Ave\r\napt. 33C",
+    "Subtotal": "9.00",
+    "Tip": "1.00",
+    "Tax": "2.80",
+    "Total": "12.80"
   }
-}
+]
