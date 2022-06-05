@@ -2,9 +2,7 @@
  "posts":[
   {
    
- "OrderNo": "2",
- "Invoice No": "1654305385208",
- "Type": "delivery",
+ "Tyype": "delivery",
  "OrderNo" :"1",
  "HotelName": "Indian Summer Harlem",
  "Type" : "PREORDER",
