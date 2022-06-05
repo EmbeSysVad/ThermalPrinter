@@ -1,21 +1,6 @@
 {
  "posts":[
-   {
-    "OrderNo": 2,
-    "Invoice No": "1654305385208",
-    "Type": "delivery",
-    "Ordered": "03/06/2022 09:16 PM",
-    "PreOrderDate": "",
-    "PreOrderTime": "",
-    "CustName": "Jessica ",
-    "CustEmail": "constantinoslinos@gmail.com",
-    "CustMob": "6467255797",
-    "CustAddress": "1295 5th Ave\r\napt. 33C",
-    "Subtotal": "9.00",
-    "Tip": "1.00",
-    "Tax": "2.80",
-    "Total": "12.80"
-  }
+   { "OrderNo": 2}
 ],
  "comments":[
    {"id":1, "body": "Comment 1","description": "This is description 1"}
