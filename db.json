@@ -1,9 +1,7 @@
 {
  "posts":[
   {
-   
- "Tyype": "delivery",
- "OrderNo" :"1",
+ "OrderNo" :"71",
  "HotelName": "Indian Summer Harlem",
  "Type" : "PREORDER",
  "PreOrderDate":"12/12/2022",
